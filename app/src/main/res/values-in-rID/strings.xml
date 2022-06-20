@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">To-Do List App</string>
+    <string name="name">IF Unjani\nMuhammad Ramdhani 3411181023</string>
+    <string name="todo_app">Todo App</string>
+    <string name="add_task">Tambahkan Tugas</string>
+    <string name="title_hint">Judul</string>
+    <string name="description_hint">Masukkan deskripsi Anda di sini</string>
+    <string name="due_date">Batas Waktu</string>
+    <string name="delete_task">Hapus Tugas</string>
+    <string name="no_task">Tugas tidak ditemukan</string>
+    <string name="action_save">Simpan</string>
+    <string name="field_not_blank">Field tidak boleh kosong</string>
+    <string name="update_task">Perbarui Tugas</string>
+    <string name="detail">Detail Tugas</string>
+    <string name="task">Tugas</string>
+</resources>

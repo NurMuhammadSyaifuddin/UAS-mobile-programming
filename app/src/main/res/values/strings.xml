@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To-Do List App</string>
+    <string name="name">IF Unjani\nMuhammad Ramdhani 3411181023</string>
+    <string name="todo_app">Todo App</string>
+    <string name="add_task">Add Task</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Enter your description here</string>
+    <string name="due_date">Due date</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="no_task">No tasks found</string>
+    <string name="action_save">Save</string>
+    <string name="field_not_blank">Field can not be blank</string>
+    <string name="update_task">Update Task</string>
+    <string name="detail">Detail Task</string>
+    <string name="task">Task</string>
+    <string name="add">Tambah Tugas</string>
+</resources>
